@@ -6,9 +6,9 @@
 		id        = "com.my.package"
 		version   = "4.0">
 		
-    <name>My app name</name>
+    <name>ProductCatalog</name>
     <description>
-        My app description
+        Product catalog description
     </description>
     <author href="http://yoursite.com" email="support@yoursite.com">
         My team name
