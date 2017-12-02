@@ -1,0 +1,10 @@
+.vscode
+build/
+debug/
+node_modules/
+materials/
+documentation/
+distrib/
+*/.vscode
+*/node_modules
+*.log
