@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0" 
 		xmlns:cdv="http://cordova.apache.org/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
-		id        = "com.my.package"
+		id        = "com.srf.tester"
 		version   = "4.0">
 		
     <name>ProductCatalog</name>
